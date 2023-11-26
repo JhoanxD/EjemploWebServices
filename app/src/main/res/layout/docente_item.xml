@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/txtItemNombreDocente"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/txtItemApellidoDocente"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/txtItemFechaNacimientoDocente"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/txtItemAntiguedadDocente"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/txtItemCiudadDocente"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/txtItemEstadoDocente"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/txtItemDireccionDocente"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content" />
+</LinearLayout>
